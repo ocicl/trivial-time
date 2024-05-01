@@ -1,0 +1,10 @@
+* trivial-time
+
+Portable timing and benchmarking for CL code
+
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/aartaka/trivial-time.git |
+| commit  | 9945542                                         |
+| systems | trivial-time                                    |
+|---------+-------------------------------------------------|
+

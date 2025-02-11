@@ -4,7 +4,7 @@ Portable timing and benchmarking for CL code
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/aartaka/trivial-time.git |
-| commit  | 656bfd0                                         |
+| commit  | e66ff8a                                         |
 | systems | trivial-time                                    |
 |---------+-------------------------------------------------|
 
